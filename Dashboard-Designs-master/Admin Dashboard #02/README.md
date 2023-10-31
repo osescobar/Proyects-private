@@ -1,5 +1,5 @@
 # Responsive Dashboard Design #2
-In this tutorial ([Open in Youtube](https://youtu.be/D88K1esxwuo)),  I'm going to show you how to use modern HTML, CSS, and JavaScript to create a completely responsive admin dashboard with light and dark mode theme functionality. We'll be using CSS Variables, CSS Grid, CSS Flexbox, Media queries for our responsive design, and CSS  transitions and animations for some cool animation effects.
+Te mostraré cómo usar HTML, CSS y JavaScript modernos para crear un panel de administración completamente receptivo con funcionalidad de tema claro y oscuro. Utilizaremos Variables CSS, CSS Grid, CSS Flexbox, consultas de medios para nuestro diseño receptivo y transiciones y animaciones CSS para algunos efectos de animación geniales.
 
 # Screenshot
 Here we have project screenshot :
